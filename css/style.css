@@ -118,20 +118,24 @@ ul.nav li a {
 
 #intro-pic img {
 	border: 8px solid #bf3030;
+	border-radius: 15px;
 	margin: 0 0 20px 0;
 }
 
 #new-cupcakes img {
 	border: 8px solid #bf3030;
+	border-radius: 15px;
 	margin: 0 0 5px 0;
 }
 
 #popular-cupcakes img {
 	border: 8px solid #bf3030;
+	border-radius: 15px;
 }
 
 #featured-cupcake img {
 	border: 8px solid #bf3030;
+	border-radius: 15px;
 }
 
 #contact span{
